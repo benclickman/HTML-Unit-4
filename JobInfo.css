@@ -1,0 +1,32 @@
+h3{
+	text-transform: uppercase;
+}
+
+p{
+	text-align: right;
+	font-family: Arial;
+}
+
+body{
+	background-image:url("https://s3.amazonaws.com/pbblogassets/uploads/2015/10/Professional-Video-Editing-Tips-and-Tricks.jpg");
+}
+
+a{
+	font-size: 16px;
+	font-style: italic;
+}
+
+.header{
+	border-style: solid;
+	background-color: #E0FFFF;
+}
+
+.content{
+	background-color: #E0FFFF;
+	height: 80%;
+	width: 70%;
+}
+
+.footer{
+	background-color: #E0FFFF;
+}
